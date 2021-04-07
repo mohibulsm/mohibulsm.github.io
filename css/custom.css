@@ -25,11 +25,11 @@ p {
 header {
     position: relative;
     width: 100%;
-	height:100%
+	height:100% ;
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('../images/bg.gif');
+    background-image: url('../images/im.gif');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -355,7 +355,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: limegreen;
     color: #fff;
-    background-color: limegreen;
+    background-color: black;
 }
 
 .btn-primary:active,
